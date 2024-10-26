@@ -1,0 +1,12 @@
+0 grass
+1->
+2 bee
+3 bird
+4 mountain
+5 rock
+6 tree
+7 wall
+8 g_key
+9 s_key
+10 e_key
+11 c_key
